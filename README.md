@@ -1,4 +1,4 @@
-## ODADING-BOT
+## YwNBoT
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/aditiapribadiansyah/Odading-BOT
-> cd Odading-BOT
+> git clone https://github.com/aku-abdi/abdibot
+> cd abdibot
 > bash install.sh
 > node index.js
 ```
